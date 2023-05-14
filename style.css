@@ -1,0 +1,15 @@
+html{overflow-x: hidden;}
+.header{background-color: green;position: fixed;top:0;left: 0;width: 100%;padding: 2rem 9%;display: flex;justify-content: space-between;align-items: center;z-index: 100;}
+#fresh{color: white;font-size: 30px;font-weight: 600;}
+#rahisi{margin-top: -34px;margin-left: 80px;color: black;font-size: 30px;font-weight: 600;}
+/* .navbar a{font-size: 1.7rem;margin-left: 4rem;gap: 0px;} */
+.home{margin-left: -400px;color:black;font-weight: 800;font-size: 20px;}
+.about{margin-left: 50px;color:black;font-weight: 800;font-size: 20px;}
+.product{margin-left: 50px;color:black;font-weight: 800;font-size: 20px;}
+#logs{margin-top: 100px;}
+/* #fresh2{margin-left: 40px;}
+#rahisi2{margin-top: -18px;margin-left: 80px;} */
+#pic1{margin-top: -76px;margin-left: -170px;width: 40%;}
+#pic2{width: 60%;margin-left: 600px;margin-top: -235px;}
+#get1{margin-left:80px;font-size: 40px;font-weight: 800;margin-top: -50px;}
+#get2{margin-left: 80px;color: green;font-size: 20px;font-weight: 800;;}
